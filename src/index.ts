@@ -1,3 +1,4 @@
-const message: string = 'Hello world!'
+let message: string = 'Hello';
+let target: string = 'world';
 
-console.log(message)
+console.log(message + target);
