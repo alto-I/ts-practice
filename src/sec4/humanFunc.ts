@@ -1,3 +1,5 @@
+// 関数式は巻き上げはできない。てか基本的に使う前に宣言するよねっていう。
+
 type Human = {
   height: number;
   weight: number;
